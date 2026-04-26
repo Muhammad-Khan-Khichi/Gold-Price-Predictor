@@ -13,6 +13,11 @@ A beautifully designed Streamlit application that predicts **GLD (Gold ETF) pric
 
 ---
 
+## 🌐 Live Demo
+
+👉 Try the app here:
+https://gold-price-predictor-mk.streamlit.app/
+
 ## Project Structure
 
 ```
